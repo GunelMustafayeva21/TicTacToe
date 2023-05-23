@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\AİTASK1\AİTASK1\bin\Debug\net6.0\AİTASK1.exe
+C:\Users\User\source\repos\AİTASK1\AİTASK1\bin\Debug\net6.0\AİTASK1.deps.json
+C:\Users\User\source\repos\AİTASK1\AİTASK1\bin\Debug\net6.0\AİTASK1.runtimeconfig.json
+C:\Users\User\source\repos\AİTASK1\AİTASK1\bin\Debug\net6.0\AİTASK1.dll
+C:\Users\User\source\repos\AİTASK1\AİTASK1\bin\Debug\net6.0\AİTASK1.pdb
+C:\Users\User\source\repos\AİTASK1\AİTASK1\obj\Debug\net6.0\AİTASK1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AİTASK1\AİTASK1\obj\Debug\net6.0\AİTASK1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AİTASK1\AİTASK1\obj\Debug\net6.0\AİTASK1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AİTASK1\AİTASK1\obj\Debug\net6.0\AİTASK1.AssemblyInfo.cs
+C:\Users\User\source\repos\AİTASK1\AİTASK1\obj\Debug\net6.0\AİTASK1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AİTASK1\AİTASK1\obj\Debug\net6.0\AİTASK1.dll
+C:\Users\User\source\repos\AİTASK1\AİTASK1\obj\Debug\net6.0\refint\AİTASK1.dll
+C:\Users\User\source\repos\AİTASK1\AİTASK1\obj\Debug\net6.0\AİTASK1.pdb
+C:\Users\User\source\repos\AİTASK1\AİTASK1\obj\Debug\net6.0\AİTASK1.genruntimeconfig.cache
+C:\Users\User\source\repos\AİTASK1\AİTASK1\obj\Debug\net6.0\ref\AİTASK1.dll
